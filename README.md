@@ -1,10 +1,3 @@
-<p align="center">
- 
-[<img src="https://user-images.githubusercontent.com/58719230/207261523-ad081bec-2dab-4d32-b7c5-7d4c6c33ef10.png" width="100%">](https://www.linkedin.com/in/tharusank23/)
- 
-</p>
-
-
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tharusanK23)

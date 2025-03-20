@@ -15,12 +15,8 @@
 ![](https://komarev.com/ghpvc/?username=tharusank23&style=for-the-badge)
 
 
-- 🔭 I’m currently working on Flutter & Angular
-- 🌱 I’m currently learning React
-- ✨ I’m looking to collaborate on [YouTube](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
-- 💬 Ask me about Flutter & Dart,
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tharusank23/)
-- 😄 Pronouns: He/Him
+# 💫 About Me:
+🔭 I’m currently working on **mobile and web application development** using **Flutter, Angular, .NET Core, Node.js, and Firebase**.  <br>👯 I’m looking to collaborate on **open-source projects related to mobile and web development, especially those involving Flutter, Angular, and cloud-based solutions**.  <br>🤝 I’m looking for help with **advanced cloud integrations and scalable backend solutions**.  <br>🌱 I’m currently learning **AWS, advanced Stripe integrations, and optimizing mobile performance**.  <br>💬 Ask me about **Flutter, Angular, Node.js, Firebase, Stripe integrations, and full-stack development**.  <br>⚡ Fun fact: **I love solving complex development challenges and constantly learning new technologies to stay ahead!**  
 
 
 
@@ -40,10 +36,6 @@ Like to hire me? Drop an email to - ktharu0305@gmail.com
 
 
 -----
-
-# 💫 About Me:
-🔭 I’m currently working on **mobile and web application development** using **Flutter, Angular, .NET Core, Node.js, and Firebase**.  <br>👯 I’m looking to collaborate on **open-source projects related to mobile and web development, especially those involving Flutter, Angular, and cloud-based solutions**.  <br>🤝 I’m looking for help with **advanced cloud integrations and scalable backend solutions**.  <br>🌱 I’m currently learning **AWS, advanced Stripe integrations, and optimizing mobile performance**.  <br>💬 Ask me about **Flutter, Angular, Node.js, Firebase, Stripe integrations, and full-stack development**.  <br>⚡ Fun fact: **I love solving complex development challenges and constantly learning new technologies to stay ahead!**  
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TharusanK23) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tharusan_k_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tharusank23) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tharusanK23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ktharu0305@gmail.com) 

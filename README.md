@@ -9,7 +9,7 @@
 
 -----
 
-### 💫 Hi there., I'm Shan👋
+# 💫 Hi there., I'm Shan👋
 
 
 ![](https://komarev.com/ghpvc/?username=tharusank23&style=for-the-badge)
